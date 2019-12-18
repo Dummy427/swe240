@@ -1,2 +1,4 @@
 From locale
 new line from locale host
+
+test123
